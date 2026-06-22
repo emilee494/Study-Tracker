@@ -1,7 +1,3 @@
-import datetime
-import json
-import os
-
 FILE_NAME = "study_log.json"
 
 def log_session():
